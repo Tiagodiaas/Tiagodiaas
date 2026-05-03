@@ -29,7 +29,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre), apai
 - 🌎 Inglês **Cambridge B2** (Upper-Intermediate)
 - 💼 Disponível para **estágio em desenvolvimento**
 - 📍 Brasília, DF
-- 📬 tiagodias@gmail.com
+- 📬 tiagovianadias2311@gmail.com
 
 ---
 
