@@ -74,5 +74,5 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre), apai
 ---
 
 <p align="center">
-  Feito com ❤️ por Tiago Dias
+  Feito por Tiago Dias
 </p>
